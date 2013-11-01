@@ -1,0 +1,17 @@
+{
+  "name": "chrome-ang-app",
+  "version": "1.0.0",
+  "title": "NG Chrome",
+  "homepage": "http://agtlucas.com",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.5.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-google-cdn": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-sass": "~0.5.0"
+  }
+}
